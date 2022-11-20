@@ -1,0 +1,11 @@
+	problem		app			effect
+1-forgetting things	reminder		sets a reminder on phone
+2-depression		joke			makes a joke to lighten mood
+3-forgwttingcodingterm	dictionary		search up the word and meaning comes
+4-need help teaching	teacher app		gets youtube video from byjus
+5-football		big football app	games/info about football
+6-test practice		tests app		gives you practice questions
+7-needsecuritypassword	password manager	gives security
+8-need to look up laws	law book		informs you about the law
+9-addicted to games	screen time app		screen colses after certain period
+10-need music		music app		gives free music	
